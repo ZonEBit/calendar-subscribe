@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>2026研发日历订阅</title>
+</head>
+<body>
+  <h1>2026研发日历订阅</h1>
+  <p>
+    <a href="webcal://ZonEBit.github.io/calendar-subscribe/rd-calendar-2026.ics">
+      点击订阅 iPhone 日历
+    </a>
+  </p>
+</body>
+</html>
